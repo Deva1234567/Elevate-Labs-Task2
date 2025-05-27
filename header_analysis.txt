@@ -1,0 +1,12 @@
+Delivered-To: user@example.com
+Received: by mail.example.com with SMTP id abc123; Tue, 27 May 2025 04:00:00 +0530 (IST)
+Return-Path: <admin@randomdomain.xyz>
+Received: from mail.paypa1.com (mail.paypa1.com [192.168.1.100]) by mx.example.com with ESMTP id xyz789; Tue, 27 May 2025 03:45:00 +0530 (IST)
+From: PayPal Security <security@paypa1.com>
+To: user@example.com
+Subject: Urgent: Your Account Has Been Compromised!
+Date: Tue, 27 May 2025 04:00:00 +0530
+Message-ID: <123456789@paypa1.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+X-Virus-Scan: Clean

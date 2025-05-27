@@ -1,0 +1,21 @@
+Subject: Urgent: Your Account Has Been Compromised!
+
+From: PayPal Security security@paypa1.com
+
+To: user@example.com
+
+Date: May 27, 2025
+
+Body:
+
+Dear Customer,
+
+We detected unauthorized activity on your PayPal account. To secure your account, you must verify your identity immediately. Failure to do so within 24 hours will result in account suspension.
+
+Please click here to verify: Secure Login
+
+Additionally, download and review the attached document (Account_Recovery.pdf) for instructions.
+
+Thank you,
+
+PayPal Security Team
